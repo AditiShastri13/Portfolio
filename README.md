@@ -22,3 +22,4 @@ Open `index.html` in a browser, or serve the folder with a simple local server.
 
 Your site will be available at:
 `https://<your-username>.github.io/<repository-name>/`
+https://aditishastri13.github.io/Portfolio/
